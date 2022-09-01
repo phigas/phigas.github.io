@@ -1,3 +1,5 @@
-theme: jekyll-theme-minimal
-title: Phigas's homepage
+theme: jekyll-theme-dinky
+title: phigas's homepage
 description: Bookmark this to keep an eye on my project updates!
+show_downloads: true
+google_analytics: UA-239643393-1
