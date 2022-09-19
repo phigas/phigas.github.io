@@ -14,4 +14,7 @@ What i really love is working on projects that span over multiple fields (like m
 
 ## Blog posts
 
-- [Here](https://phigas.github.io/TFOD-inference-generator/) you can find my blogpost about a class i made which can load a TensorFlow Object Detection API model and run inference on a dataset in a pythonic way.
+### Object Detection
+
+- [Use TFOD models and datasets in a super easy way](https://phigas.github.io/TFOD-inference-generator/)
+- WIP [A better way for evaluating TFOD models](https://phigas.github.io/TFOD-advanced-evaluation-script/)
